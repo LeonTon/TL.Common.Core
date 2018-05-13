@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 
-namespace TCFront.FlightCommon.Core.Configuration
+namespace TL.Common.Core
 {
     /// <summary>
     /// 配置文件帮助类

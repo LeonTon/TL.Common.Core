@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using TL.Common.Core;
 
-namespace Tc.Flight.Recommend.Comm
+namespace TL.Common.Core
 {
     public class AppInit
 
